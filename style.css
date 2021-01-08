@@ -1,0 +1,95 @@
+body {
+    background-color: bisque;
+    background-image: url("Assets/img/Mamouflage Mustang.jpg");
+    margin-left: 1px;
+    margin-right: 1px;
+    width: 100%;
+    height: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-repeat: no-repeat;
+    background-size: part;
+    align-items: center;
+}
+html {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    size: 50px;
+    margin: 10%;
+    padding: 0;
+    /* align-items: center; */
+    font-family: arial;
+}
+    
+    img#play {
+            width: 10%;
+            height: auto;
+          }
+
+    #t01, th, td {
+        padding-top: 30px;
+        border-style: solid;
+        border: 5px solid black;
+        border-collapse: collapse;
+        width: 50%;    
+        background-color: #f1f1c1;
+      }
+
+      #t02, th, td {
+        padding-top: 5px;
+        border-style: solid;
+        border: 5px solid black;
+        border-collapse: collapse;
+        width: 50%;    
+        
+      }
+    
+
+      h1{
+        font-size: 50px;
+        color:black;
+        font-family: arial;
+        margin: 20px;
+        padding-top: 10px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    h3{
+        color:white;
+        margin: 120px;
+        padding-top: 10px;
+        padding-left: 250px;
+
+    }
+
+    h2{
+        color: white;
+        margin: 120px;
+        padding-top: 10px;
+        padding-left: 250px;
+    }
+    p{
+        color: white;
+        margin: 120px;
+        padding-top: 10px;
+        padding-left: 250px;
+    }
+    #t01 {
+        margin: 50px;
+        /* padding-left: 5px */
+        width: 100px;
+        float: left;
+        height: 150px;
+        background-color: white;
+    }
+    #t02 {
+        margin: 600px;
+        /* padding-left: 5px  */
+        width: 100px;
+        float: righ;
+        height: 150px;
+        background-color:white;
+    }
